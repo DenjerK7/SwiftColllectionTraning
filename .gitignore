@@ -9,5 +9,7 @@
 *.log.*
 *.sig
 
+*.freed
+
 pkg/
 src/
